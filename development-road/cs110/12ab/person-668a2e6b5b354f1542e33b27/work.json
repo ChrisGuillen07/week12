@@ -9,7 +9,7 @@
       "verificationCode": "VIEW-895514D3B480AE472FFE3D17"
     },
     "draft": {
-      "currentPage": 46,
+      "currentPage": 9,
       "prep": {
         "repo": "https://github.com/ChrisGuillen07/week12"
       }
@@ -31,13 +31,29 @@
           "restoredPoints": 0,
           "approvedAt": null
         }
+      },
+      {
+        "code": "TIME-F1EE273927644F7C12F27C1E",
+        "name": "Christopher Guillen",
+        "day": "A",
+        "arrival": "2026-11-12T21:25:24.354Z",
+        "start": "2026-11-10T20:45:00Z",
+        "calculated": 2920,
+        "deduction": 20,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
       }
     ],
     "team": null,
     "invites": []
   },
   "draft": {
-    "currentPage": 46,
+    "currentPage": 9,
     "prep": {
       "repo": "https://github.com/ChrisGuillen07/week12"
     }
@@ -45,7 +61,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 46,
+    "lastPage": 9,
     "timerMinutes": 10
   }
 }
