@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "course": "CS110",
+  "assignment": "independence-12ab",
+  "state": {
+    "me": {
+      "id": "PERSON-668A2E6B5B354F1542E33B27",
+      "name": "Christopher Guillen",
+      "verificationCode": "VIEW-895514D3B480AE472FFE3D17"
+    },
+    "draft": {
+      "currentPage": 46,
+      "prep": {
+        "repo": "https://github.com/ChrisGuillen07/week12"
+      }
+    },
+    "receipts": [],
+    "clocks": [
+      {
+        "code": "TIME-0B6C8D70319F363811295AA1",
+        "name": "Christopher Guillen",
+        "day": "B",
+        "arrival": "2026-11-12T20:49:52.605Z",
+        "start": "2026-11-12T20:45:00Z",
+        "calculated": 0,
+        "deduction": 0,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
+      }
+    ],
+    "team": null,
+    "invites": []
+  },
+  "draft": {
+    "currentPage": 46,
+    "prep": {
+      "repo": "https://github.com/ChrisGuillen07/week12"
+    }
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 46,
+    "timerMinutes": 10
+  }
+}
